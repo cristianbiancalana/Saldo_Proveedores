@@ -1,0 +1,402 @@
+[
+    {
+        "razon_social": "Empresa A",
+        "cuit": "30-12345678-1",
+        "fecha_factura": "2024-01-15",
+        "tipo_factura": "A",
+        "numero_factura": "0001-00001234",
+        "tipo_iva": "21%",
+        "monto_total": 50000,
+        "concepto": "Compra de insumos"
+    },
+    {
+        "razon_social": "Empresa B",
+        "cuit": "30-87654321-2",
+        "fecha_factura": "2024-02-20",
+        "tipo_factura": "B",
+        "numero_factura": "0002-00005678",
+        "tipo_iva": "10.5%",
+        "monto_total": 15000,
+        "concepto": "Servicios de consultoría"
+    },
+    {
+        "razon_social": "Empresa C",
+        "cuit": "30-11223344-3",
+        "fecha_factura": "2024-03-10",
+        "tipo_factura": "C",
+        "numero_factura": "0003-00009876",
+        "tipo_iva": "21%",
+        "monto_total": 20000,
+        "concepto": "Mantenimiento de equipos"
+    },
+    {
+        "razon_social": "Empresa D",
+        "cuit": "30-44332211-4",
+        "fecha_factura": "2024-04-05",
+        "tipo_factura": "A",
+        "numero_factura": "0004-00004567",
+        "tipo_iva": "10.5%",
+        "monto_total": 7500,
+        "concepto": "Venta de productos"
+    },
+    {
+        "razon_social": "Empresa E",
+        "cuit": "30-99887766-5",
+        "fecha_factura": "2024-05-18",
+        "tipo_factura": "B",
+        "numero_factura": "0005-00003210",
+        "tipo_iva": "21%",
+        "monto_total": 30000,
+        "concepto": "Desarrollo de software"
+    },
+    {
+        "razon_social": "Empresa A",
+        "cuit": "30-12345678-1",
+        "fecha_factura": "2024-06-25",
+        "tipo_factura": "C",
+        "numero_factura": "0006-00008765",
+        "tipo_iva": "10.5%",
+        "monto_total": 12500,
+        "concepto": "Distribución de mercadería"
+    },
+    {
+        "razon_social": "Empresa B",
+        "cuit": "30-87654321-2",
+        "fecha_factura": "2024-07-13",
+        "tipo_factura": "A",
+        "numero_factura": "0007-00007654",
+        "tipo_iva": "21%",
+        "monto_total": 45000,
+        "concepto": "Transporte de cargas"
+    },
+    {
+        "razon_social": "Empresa C",
+        "cuit": "30-11223344-3",
+        "fecha_factura": "2024-08-30",
+        "tipo_factura": "B",
+        "numero_factura": "0008-00006543",
+        "tipo_iva": "10.5%",
+        "monto_total": 60000,
+        "concepto": "Obras de construcción"
+    },
+    {
+        "razon_social": "Empresa D",
+        "cuit": "30-44332211-4",
+        "fecha_factura": "2024-09-21",
+        "tipo_factura": "C",
+        "numero_factura": "0009-00005432",
+        "tipo_iva": "21%",
+        "monto_total": 9500,
+        "concepto": "Suministro de alimentos"
+    },
+    {
+        "razon_social": "Empresa E",
+        "cuit": "30-99887766-5",
+        "fecha_factura": "2024-10-17",
+        "tipo_factura": "A",
+        "numero_factura": "0010-00004321",
+        "tipo_iva": "10.5%",
+        "monto_total": 22000,
+        "concepto": "Asesoría financiera"
+    },
+    {
+        "razon_social": "Empresa A",
+        "cuit": "30-12345678-1",
+        "fecha_factura": "2024-11-05",
+        "tipo_factura": "B",
+        "numero_factura": "0011-00001234",
+        "tipo_iva": "21%",
+        "monto_total": 34000,
+        "concepto": "Venta de electrodomésticos"
+    },
+    {
+        "razon_social": "Empresa B",
+        "cuit": "30-87654321-2",
+        "fecha_factura": "2024-12-19",
+        "tipo_factura": "C",
+        "numero_factura": "0012-00004321",
+        "tipo_iva": "10.5%",
+        "monto_total": 18000,
+        "concepto": "Servicios generales"
+    },
+    {
+        "razon_social": "Empresa C",
+        "cuit": "30-11223344-3",
+        "fecha_factura": "2025-01-14",
+        "tipo_factura": "A",
+        "numero_factura": "0013-00005432",
+        "tipo_iva": "21%",
+        "monto_total": 29000,
+        "concepto": "Campaña publicitaria"
+    },
+    {
+        "razon_social": "Empresa D",
+        "cuit": "30-44332211-4",
+        "fecha_factura": "2025-02-08",
+        "tipo_factura": "B",
+        "numero_factura": "0014-00006543",
+        "tipo_iva": "10.5%",
+        "monto_total": 31000,
+        "concepto": "Licencias de software"
+    },
+    {
+        "razon_social": "Empresa E",
+        "cuit": "30-99887766-5",
+        "fecha_factura": "2025-03-03",
+        "tipo_factura": "C",
+        "numero_factura": "0015-00007654",
+        "tipo_iva": "21%",
+        "monto_total": 48000,
+        "concepto": "Venta de equipos médicos"
+    },
+    {
+        "razon_social": "Empresa A",
+        "cuit": "30-12345678-1",
+        "fecha_factura": "2025-04-20",
+        "tipo_factura": "A",
+        "numero_factura": "0016-00008765",
+        "tipo_iva": "10.5%",
+        "monto_total": 27000,
+        "concepto": "Servicios de diseño gráfico"
+    },
+    {
+        "razon_social": "Empresa B",
+        "cuit": "30-87654321-2",
+        "fecha_factura": "2025-05-25",
+        "tipo_factura": "B",
+        "numero_factura": "0017-00009876",
+        "tipo_iva": "21%",
+        "monto_total": 39000,
+        "concepto": "Consultoría en ingeniería"
+    },
+    {
+        "razon_social": "Empresa C",
+        "cuit": "30-11223344-3",
+        "fecha_factura": "2025-06-11",
+        "tipo_factura": "C",
+        "numero_factura": "0018-00001234",
+        "tipo_iva": "10.5%",
+        "monto_total": 52000,
+        "concepto": "Venta de materiales"
+    },
+    {
+        "razon_social": "Empresa D",
+        "cuit": "30-44332211-4",
+        "fecha_factura": "2025-07-07",
+        "tipo_factura": "A",
+        "numero_factura": "0019-00003210",
+        "tipo_iva": "21%",
+        "monto_total": 26000,
+        "concepto": "Suministro de equipos"
+    },
+    {
+        "razon_social": "Empresa E",
+        "cuit": "30-99887766-5",
+        "fecha_factura": "2025-08-14",
+        "tipo_factura": "B",
+        "numero_factura": "0020-00004321",
+        "tipo_iva": "10.5%",
+        "monto_total": 44000,
+        "concepto": "Venta de autopartes"
+    },
+    {
+        "razon_social": "Empresa A",
+        "cuit": "30-12345678-1",
+        "fecha_factura": "2025-09-03",
+        "tipo_factura": "C",
+        "numero_factura": "0021-00005432",
+        "tipo_iva": "21%",
+        "monto_total": 37000,
+        "concepto": "Venta de tecnología"
+    },
+    {
+        "razon_social": "Empresa B",
+        "cuit": "30-87654321-2",
+        "fecha_factura": "2025-10-11",
+        "tipo_factura": "A",
+        "numero_factura": "0022-00007654",
+        "tipo_iva": "10.5%",
+        "monto_total": 55000,
+        "concepto": "Importación de productos"
+    },
+    {
+        "razon_social": "Empresa C",
+        "cuit": "30-11223344-3",
+        "fecha_factura": "2025-11-09",
+        "tipo_factura": "B",
+        "numero_factura": "0023-00008765",
+        "tipo_iva": "21%",
+        "monto_total": 20000,
+        "concepto": "Asesoría contable"
+    },
+    {
+        "razon_social": "Empresa D",
+        "cuit": "30-44332211-4",
+        "fecha_factura": "2025-12-22",
+        "tipo_factura": "C",
+        "numero_factura": "0024-00009876",
+        "tipo_iva": "10.5%",
+        "monto_total": 12000,
+        "concepto": "Venta de libros"
+    },
+    {
+        "razon_social": "Empresa E",
+        "cuit": "30-99887766-5",
+        "fecha_factura": "2026-01-13",
+        "tipo_factura": "A",
+        "numero_factura": "0025-00001234",
+        "tipo_iva": "21%",
+        "monto_total": 33000,
+        "concepto": "Venta de textiles"
+    },
+    {
+        "razon_social": "Empresa A",
+        "cuit": "30-12345678-1",
+        "fecha_factura": "2026-02-16",
+        "tipo_factura": "B",
+        "numero_factura": "0026-00003210",
+        "tipo_iva": "10.5%",
+        "monto_total": 47000,
+        "concepto": "Repuestos automotrices"
+    },
+    {
+        "razon_social": "Empresa B",
+        "cuit": "30-87654321-2",
+        "fecha_factura": "2026-03-05",
+        "tipo_factura": "C",
+        "numero_factura": "0027-00004321",
+        "tipo_iva": "21%",
+        "monto_total": 42000,
+        "concepto": "Componentes electrónicos"
+    },
+    {
+        "razon_social": "Empresa C",
+        "cuit": "30-11223344-3",
+        "fecha_factura": "2026-04-30",
+        "tipo_factura": "A",
+        "numero_factura": "0028-00005432",
+        "tipo_iva": "10.5%",
+        "monto_total": 31000,
+        "concepto": "Servicios de publicidad"
+    },
+    {
+        "razon_social": "Empresa D",
+        "cuit": "30-44332211-4",
+        "fecha_factura": "2026-05-25",
+        "tipo_factura": "B",
+        "numero_factura": "0029-00006543",
+        "tipo_iva": "21%",
+        "monto_total": 53000,
+        "concepto": "Suministro de medicamentos"
+    },
+    {
+        "razon_social": "Empresa E",
+        "cuit": "30-99887766-5",
+        "fecha_factura": "2026-06-12",
+        "tipo_factura": "C",
+        "numero_factura": "0030-00007654",
+        "tipo_iva": "10.5%",
+        "monto_total": 29000,
+        "concepto": "Asesoría legal"
+    },
+    {
+        "razon_social": "Empresa A",
+        "cuit": "30-12345678-1",
+        "fecha_factura": "2026-07-28",
+        "tipo_factura": "A",
+        "numero_factura": "0031-00008765",
+        "tipo_iva": "21%",
+        "monto_total": 60000,
+        "concepto": "Transporte de mercancías"
+    },
+    {
+        "razon_social": "Empresa B",
+        "cuit": "30-87654321-2",
+        "fecha_factura": "2026-08-19",
+        "tipo_factura": "B",
+        "numero_factura": "0032-00009876",
+        "tipo_iva": "10.5%",
+        "monto_total": 38000,
+        "concepto": "Construcción de edificios"
+    },
+    {
+        "razon_social": "Empresa C",
+        "cuit": "30-11223344-3",
+        "fecha_factura": "2026-09-15",
+        "tipo_factura": "C",
+        "numero_factura": "0033-00001234",
+        "tipo_iva": "21%",
+        "monto_total": 25000,
+        "concepto": "Organización de eventos"
+    },
+    {
+        "razon_social": "Empresa D",
+        "cuit": "30-44332211-4",
+        "fecha_factura": "2026-10-07",
+        "tipo_factura": "A",
+        "numero_factura": "0034-00003210",
+        "tipo_iva": "10.5%",
+        "monto_total": 14000,
+        "concepto": "Suministro de oficina"
+    },
+    {
+        "razon_social": "Empresa E",
+        "cuit": "30-99887766-5",
+        "fecha_factura": "2026-11-25",
+        "tipo_factura": "B",
+        "numero_factura": "0035-00004321",
+        "tipo_iva": "21%",
+        "monto_total": 72000,
+        "concepto": "Paquetes turísticos"
+    },
+    {
+        "razon_social": "Empresa A",
+        "cuit": "30-12345678-1",
+        "fecha_factura": "2026-12-16",
+        "tipo_factura": "C",
+        "numero_factura": "0036-00005432",
+        "tipo_iva": "10.5%",
+        "monto_total": 36000,
+        "concepto": "Servicios financieros"
+    },
+    {
+        "razon_social": "Empresa B",
+        "cuit": "30-87654321-2",
+        "fecha_factura": "2027-01-29",
+        "tipo_factura": "A",
+        "numero_factura": "0037-00006543",
+        "tipo_iva": "21%",
+        "monto_total": 44000,
+        "concepto": "Consultoría en TI"
+    },
+    {
+        "razon_social": "Empresa C",
+        "cuit": "30-11223344-3",
+        "fecha_factura": "2027-02-24",
+        "tipo_factura": "B",
+        "numero_factura": "0038-00007654",
+        "tipo_iva": "10.5%",
+        "monto_total": 13000,
+        "concepto": "Venta de bebidas"
+    },
+    {
+        "razon_social": "Empresa D",
+        "cuit": "30-44332211-4",
+        "fecha_factura": "2027-03-10",
+        "tipo_factura": "C",
+        "numero_factura": "0039-00008765",
+        "tipo_iva": "21%",
+        "monto_total": 39000,
+        "concepto": "Alquiler de equipos"
+    },
+    {
+        "razon_social": "Empresa E",
+        "cuit": "30-99887766-5",
+        "fecha_factura": "2027-04-21",
+        "tipo_factura": "A",
+        "numero_factura": "0040-00009876",
+        "tipo_iva": "10.5%",
+        "monto_total": 54000,
+        "concepto": "Venta de repuestos industriales"
+    }
+]
